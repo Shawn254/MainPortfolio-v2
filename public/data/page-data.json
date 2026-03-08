@@ -1,0 +1,102 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "nderitushawn5@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:nderitushawn5@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+254 721 447 397",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+254721447397"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "Whatsapp",
+        "icon": "/images/icon/whatsapp.png",
+        "link": "https://wa.me/+254721447397"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/shawn-nderitu-a6a890200/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "The Catholic University of Eastern Africa - 2023-Present",
+        "description": "Currently pursuing a degree in Computer Science with a focus on software development, systems design, and modern computing technologies. The program has strengthened my analytical thinking, programming skills, and ability to design efficient technology solutions while exploring emerging areas such as artificial intelligence and automation."
+      },
+      {
+        "title": "Karima Boys High School - 2019-2022",
+        "description": "Combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+      },
+      {
+        "title": "Kilimani Primary School - Completed in 2018",
+        "description": "Successfully completed primary education while building strong foundational skills in literacy, numeracy, and critical thinking that laid the groundwork for future academic development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.png",
+        "rating": 4
+      },
+      {
+        "name": "AI Tools",
+        "icon": "/images/home/education-skill/ai.png",
+        "rating": 4
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript.png",
+        "rating": 5
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+  {
+    "title": "Whatsapp",
+    "link": "https://wa.me/+254721447397"
+  },
+  {
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/shawn-nderitu-a6a890200/"
+  }
+],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "nderitushawn5@gmail.com",
+        "link": "mailto:nderitushawn5@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+254 721 447 397",
+        "link": "tel:+254721447397"
+      }
+    ]
+  }
+}

@@ -14,7 +14,7 @@ const Header = () => {
 
                         {/* Changed from <button> to <a> for direct downloading */}
                         <a
-                            href="/ShawnNderituCv.pdf"
+                            href="/ShawnNderituCV.pdf"
                             download="Shawn-Nderitu-Resume.pdf"
                             className="relative overflow-hidden cursor-pointer w-fit py-2 sm:py-3 md:py-5 px-4 sm:px-5 md:px-7 border border-primary rounded-full group inline-block text-center"
                         >

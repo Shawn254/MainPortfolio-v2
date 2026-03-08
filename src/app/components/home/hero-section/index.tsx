@@ -27,7 +27,7 @@ const index = () => {
             </p>
           </div>
           <Image
-            src={getImgPath("/images/home/banner/banner-img.png")}
+            src={getImgPath("/images/home/banner/banner1.png")}
             alt="banner-img"
             width={685}
             height={650}
